@@ -2,4 +2,6 @@
 <h1>Samuel Pereira da Silva</h1>
 
 <h1> <a href="https://github.com/SaMuELsiLVA1946731/Projetos/tree/main/OrcamentoPessoalRefeito">Orçamento Pessoal </a> </h1>
-![image](https://github.com/user-attachments/assets/b9d93fd0-b236-494a-8d5c-890ce5552d69)
+
+![orcamento refeito](https://github.com/user-attachments/assets/dab69ba3-293e-4d7d-9b67-c8dbb7d0f8c0)
+
